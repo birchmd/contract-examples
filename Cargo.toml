@@ -1,10 +1,14 @@
 [workspace]
 
 members = [
+    "bonding/call",
+    "bonding/define",
     "counter/call",
     "counter/define",
     "hello-name/call",
     "hello-name/define",
     "mailing-list/call",
     "mailing-list/define",
+    "unbonding/call",
+    "unbonding/define",
 ]
